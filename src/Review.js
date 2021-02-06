@@ -59,7 +59,7 @@ const checkNumber = (number)=>{
       
       </div>
       <button className='random-btn' onClick= {randomPerson}>
-        surprise me
+        Random
       </button>
   </article>
   );
